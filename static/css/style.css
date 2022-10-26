@@ -72,7 +72,7 @@
 
 .get_in_touch_btn {
     background-color: white;
-    color: #d70f64 !important;
+    color: #d70f64;
 }
 
 @media (max-width: 575.98px) {
@@ -84,3 +84,4 @@
         text-align: center !important;
     }
 }
+
